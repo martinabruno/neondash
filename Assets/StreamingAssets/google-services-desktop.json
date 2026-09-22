@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "368487040588",
+    "project_id": "neondash-e6479",
+    "storage_bucket": "neondash-e6479.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368487040588:ios:38bd0bb39398ef141d96e9",
+        "android_client_info": {
+          "package_name": "com.mcs.neondash"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWGYATEJrvaK3DBIEEvmknQSZKFAY3mY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
